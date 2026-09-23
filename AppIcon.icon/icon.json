@@ -1,0 +1,85 @@
+{
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "up.svg",
+          "name": "up",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.19800,0.59500,0.99100,1.00000",
+                  "display-p3:0.15700,0.46600,1.00000,1.00000"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "image-name": "down.svg",
+          "name": "down",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.29800,0.64400,0.99100,1.00000",
+                  "display-p3:0.15700,0.49400,1.00000,1.00000"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "image-name": "arc.svg",
+          "name": "arc",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.19800,0.59500,0.99100,1.00000",
+                  "display-p3:0.15700,0.46600,1.00000,1.00000"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "image-name": "track.svg",
+          "name": "track",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,0.10000"
+              }
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "specular": true,
+      "translucency": {
+        "enabled": false,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  },
+  "fill": {
+    "linear-gradient": [
+      "display-p3:0.19800,0.59500,0.99100,1.00000",
+      "display-p3:0.15700,0.46600,1.00000,1.00000"
+    ]
+  }
+}
