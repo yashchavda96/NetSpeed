@@ -87,6 +87,14 @@ To also remove its saved settings and usage totals:
 defaults delete io.github.yashchavda96.netspeed
 ```
 
+## A note from me
+
+I built NetSpeed because I wanted a simple way to see my network speed, and it does exactly what I need. I don't plan to turn it into a big app with lots of features, and I hope that's okay.
+
+Since the code is open source, you're free to take it in any direction you like: fork it, modify it, add the features you want.
+
+If you find a genuine bug, please [open an issue](https://github.com/yashchavda96/NetSpeed/issues). I'll try to fix it when I can, or you're welcome to send a pull request. Ideas for small improvements are welcome too, as long as they keep the app simple and lightweight.
+
 ## License
 
 [MIT](LICENSE)
